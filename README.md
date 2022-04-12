@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam
-- 👀 I’m interested in Data analytics
+- 👀 I’m interested in Data Science, final year masters degree student.
 - 🌱 I’m currently learning python, R for data analysis and machine learning. 
 - 💞️ I’m looking to collaborate on data analytics projects.
 - 📫 Reach me https://www.linkedin.com/in/skhettri/
