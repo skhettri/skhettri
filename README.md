@@ -17,7 +17,7 @@
 ### 🛠️ Core Expertise
 * ⚡ **API Orchestration:** Designing seamless cloud-to-cloud workflows using **n8n**.
 * 📊 **Data Analytics:** Turning raw data into executive insights with **Python** and **SQL**.
-* 🔄 **Digital Transformation:** 7 years of experience leading cross-functional **Agile** projects.
+* 🔄 **Digital Transformation:** 7+ years of experience leading cross-functional **Agile** projects.
 
 ### 💞️ Looking to Collaborate
 I am passionate about high-impact **automation** and **data analytics** projects. If you're building something that bridges the gap between strategy and tech, let's talk.
